@@ -16,7 +16,7 @@
 ##### -Follow the next [link](https://raw.githubusercontent.com/josejesusguzman/face-api-consumption-python/main/face-consumption.py).
 #### -Click on raw, ctrl + a and ctrl + c to copy the code.
 ![AD](img/4-ad.png)
-##### -Paste the code in hte notebook.
+##### -Paste the code in the notebook.
 ![AD](img/5-ad.png)
 ##### -Copy some image URL and paste.
 ![AD](img/6-ad.png)
